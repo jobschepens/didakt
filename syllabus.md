@@ -6,7 +6,7 @@ output: html_document
 ---
 
 
-# Course information
+# Course information: Grundlagen der Allgemeinen Didaktik
 
 ## Coursebook details
 
@@ -37,7 +37,8 @@ Inhalte
 - Grundlegende Methoden der Vermittlung
                 - Moderation
                 - Präsentation
-                - usw.
+                - usw. 
+
 Lernziele
 - Die Studierenden erwerben grundlegende didaktische Kompetenzen im Sinn der:
                 - Fähigkeit zur Analyse von Lernsituationen,
@@ -87,5 +88,5 @@ Verschiedene Menschen, ins besondere Frau dr. Barbara Platzer, haben an der Entw
 
 # Seminarplanung
 
-[Detaillierte Planung](https://jobschepens.github.io/DIDB/detailedschedule.html)
+[Detaillierte Planung](https://jobschepens.github.io/didakt/detailedschedule.html)
 
