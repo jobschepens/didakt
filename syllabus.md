@@ -26,31 +26,35 @@ output: html_document
 ## Modulhandbuch
 
 Inhalte
-- Grundfragen der Allgemeinen Didaktik:
-                - Begriffe des Lehrens und Lernens
-                - Adressatenbezug
-                - Struktur des zu vermittelnden Gegenstandes
-                - Lernziele und ihre Überprüfung
-                - Methodik
-                - Sequenzierung von Lerninhalten
-                - usw.
-- Grundlegende Methoden der Vermittlung
-                - Moderation
-                - Präsentation
-                - usw.
+
+- Grundfragen der Allgemeinen Didaktik  
+	- Begriffe des Lehrens und Lernens
+	- Adressatenbezug
+	- Struktur des zu vermittelnden Gegenstandes
+	- Lernziele und ihre Überprüfung
+	- Methodik
+	- Sequenzierung von Lerninhalten
+	- usw.
+- Grundlegende Methoden der Vermittlung  
+	- Moderation
+	- Präsentation
+	- usw.
+
+
 Lernziele
-- Die Studierenden erwerben grundlegende didaktische Kompetenzen im Sinn der:
-                - Fähigkeit zur Analyse von Lernsituationen,
-                - der Anwendung von didaktischen Modellen,
-                - der Gestaltung von didaktischen Arrangements,
+
+- Die Studierenden erwerben grundlegende didaktische Kompetenzen im Sinn der  
+	- Fähigkeit zur Analyse von Lernsituationen,
+	- der Anwendung von didaktischen Modellen,
+	- der Gestaltung von didaktischen Arrangements,
 - Die Studierenden können diesen Arrangements die passenden Vermittlungsmethoden zuordnen und umsetzen.
 
 
 ## Seminarstruktur
 
-Wegen Corona findet dieses Seminar komplett online statt. Die Idee ist das wir jede Woche eine interaktiven Zoom Meeting haben um die Texte und Aufgaben zu besprechen. Wir werden Moodle für Aufgaben, das Diskussionsforum, und Literatur benutzen. Das wöchentliche lesen ist ein wichtiges Teil des Seminars. Im Ordner „Seminarliteratur“ finden sie alle Texte, die Sie während des Semesters für dieses Seminar bearbeiten sollten. Im Ordner „zusätzliche Literatur“ gibt es außerdem noch mehr interessante weiterführende Artikel.
+Wegen Corona findet dieses Seminar komplett online statt. Die Idee ist das wir jede Woche eine interaktiven Zoom Meeting haben um die Texte und Aufgaben zu besprechen. Wir werden Moodle für Aufgaben, das Diskussionsforum, und Literatur benutzen. Das wöchentliche lesen ist ein wichtiges Teil des Seminars. Im Ordner „Seminarliteratur“ finden sie alle Texte, die Sie während des Semesters für dieses Seminar bearbeiten sollten. Im Ordner „zusätzliche Literatur“ gibt es außerdem weiterführende Artikel.
 
-Es gibt grundsätzlich jeder Woche eine Aufgabe, die zu bearbeiten ist. Die Aufgaben werden nicht benotet. Für die meisten Aufgaben gibt es Hinweisen, auf welche Begriffe und Probleme Sie bei der Interpretation besonders achten sollten. Neben der Bearbeitung von Aufgaben ist geplant, dass Sie jede Woche einen Eintrag in Ihr Portfolio machen. Alle Texte müssen bearbeitet werden (gründlich lesen). Sie sollten Begriffe, die Ihnen unbekannt sind, nachschlagen und Fragen, die Sie über die Textarbeit allein nicht klären können, im Forum oder im Zoom stellen. Sie sollten einer Kommiliton_in in Ihren eigenen Worten erklären können, worum es in dem Text geht. Einige der Texte, die wir im Seminar bearbeiten, sind recht philosophisch geschrieben. Lassen Sie sich nicht entmutigen, wenn Sie mal eine Passage nicht verstehen. Die Hinweise haben die Funktion haben, Sie selbst zum Nachdenken über den Text anzuregen und selbst Fragen an den Text zu stellen. Das könnten auch Fragen sein, die über das Textverständnis hinausgehen und zum Beispiel danach fragen, wie das im Text beschriebene Problem auch heute noch Wirkung zeigt. Eine solche fragende Haltung wäre der eigentliche Lernerfolg des Seminars.
+Es gibt fast jeder Woche eine unbenotete Aufgabe. Für die meisten Aufgaben gibt es Hinweisen, auf welche Begriffe und Probleme Sie bei der Interpretation besonders achten sollten. Neben der Bearbeitung von Aufgaben ist geplant, dass Sie jede Woche einen Eintrag in Ihr Portfolio machen. Alle Texte müssen bearbeitet werden (i.e. gründlich lesen). Sie sollten Begriffe, die Ihnen unbekannt sind, nachschlagen und Fragen, die Sie über die Textarbeit allein nicht klären können, im Forum oder im Zoom stellen. Sie sollten einer Kommiliton_in in Ihren eigenen Worten erklären können, worum es in dem Text geht. Einige der Texte, die wir im Seminar bearbeiten, sind sehr philosophisch. Lassen Sie sich nicht entmutigen, wenn Sie mal eine Passage nicht verstehen. Die Hinweise haben die Funktion, Sie selbst zum Nachdenken über den Text anzuregen. Das könnten auch Fragen sein, die über das Textverständnis hinausgehen und zum Beispiel danach fragen, wie das im Text beschriebene Problem auch heute noch Wirkung zeigt. Eine solche fragende Haltung wäre der eigentliche Lernerfolg des Seminars.
 
 Während des Seminars werden wir kleine Diskussionsgruppen (Breakout Rooms) bilden. In den Gruppen könnten Sie dann die Texte entlang den Interpretationshinweisen gemeinsam bearbeiten und diskutieren und könnten so von den Überlegungen der jeweils anderen profitieren.
 
@@ -67,23 +71,58 @@ Keine der Dateien im Moodle dürfen an andere weitergegeben oder veröffentlicht
 
 ## Studienleistung: Portfolio
 
-Um das Seminar zu bestehen, müssen Sie ein Portfolio schreiben, das dokumentiert, wie Ihre Auseinandersetzung mit dem Thema und mit den Texten aussieht. Das Portfolio besteht aus verschiedene kurze Textabschnitte. Sie sollten sich für jeden Abschnitt zuerst eine konkrete Forschungsfrage basiert auf eine der Texte überlegen. Dazu formulieren Sie dann Diskursiv bzw. Ausgebreitete Antworte oder relevante Gedanken. Versuche das so Objektiv wie möglich zu machen, am liebsten mit konkretem Bezug auf wissenschaftliche Quellen (z. B. ein Zeitschriftartikel, Buchkapitel oder ähnliches). Es ist aber keine wissenschaftliche Arbeit. Das Ziel ist, ihre Gedanken zu dokumentieren. Es ist eine Art Tagebuch, wo sie interessante, kritische, überraschende, usw. Aspekte dokumentiere.
+Um das Seminar zu bestehen, müssen Sie ein Portfolio schreiben, dass dokumentiert, wie Ihre Auseinandersetzung mit dem Thema und mit den Texten aussieht. Das Portfolio besteht aus verschiedene kurze Textabschnitte. Sie sollten sich für jeden Abschnitt zuerst eine konkrete Forschungsfrage basiert auf eine der Texte überlegen. Dazu formulieren Sie dann Diskursiv bzw. Ausgebreitete Antworte oder relevante Gedanken. Versuche das so Objektiv wie möglich zu machen, am liebsten mit konkretem Bezug auf wissenschaftliche Quellen (z. B. ein Zeitschriftartikel, Buchkapitel oder ähnliches). Es ist aber keine wissenschaftliche Arbeit. Das Ziel ist, ihre Gedanken zu dokumentieren. Es ist eine Art Tagebuch, wo sie interessante, kritische, überraschende, usw. Aspekte dokumentiere.
 
 Folgende Fragen können leitend sein: Welche Gedanken / Ideen aus den jeweiligen Texten sind interessant? Warum/ inwiefern? Welche aktuellen Bezüge gibt es? An welchen Gedanken aus den Texten gibt es Kritik –und welche? An welchen Stellen gibt es Zusammenhänge zu anderen Theorien (die ich kenne)? Welche Gedanken sollte man weiterverfolgen? Welche Fragen bleiben offen? Natürlich können Sie in Ihrem Portfolio auch gerne andere Gedanken notieren, die Sie sich beim Erarbeiten der Texte gemacht haben.
 
-Die Ordnung von Abschnitte kann chronologisch sein, aber auch nach Thema, oder nach der Art des Kommentars (z. B. kritisches Kommentar zuerst oder zuletzt). Reflektiere über das gelernte, nachdem alle Abschnitte fertig bearbeitet sind. Das Portfolio sollte insgesamt 10–12 Seiten sein und sie sollten bis spätestens 30.09.2021 eine überarbeitete Form des Portfolios als pdf per Mail einreichen. Die Idee „Portfolio als Studienleistung“ hat sich über die Jahre hin bewährt. Danke an Frau dr. Barbara Platzer für die spezifischen Angaben.
+Die Ordnung von Abschnitte kann chronologisch sein, aber auch nach Thema, oder nach der Art des Kommentars (z. B. kritisches Kommentar zuerst oder zuletzt). Reflektiere über das gelernte, nachdem alle Abschnitte fertig bearbeitet sind. Das Portfolio sollte insgesamt 10–12 Seiten sein und sie sollten bis spätestens 30.09.2021 eine überarbeitete Form des Portfolios als PDF per Mail einreichen. Die Idee „Portfolio als Studienleistung“ hat sich über die Jahre hin bewährt. Danke an Frau dr. Barbara Platzer für die spezifischen Angaben.
 
 Bei der Überarbeitung sollten Sie alles, was Sie geschrieben haben, daraufhin prüfen, ob es für die Veröffentlichung bestimmt ist; das betrifft sowohl den Inhalt als auch die Form. Bitte stellen Sie sicher, dass das überarbeitete Portfolio aus ganzen Sätzen und nicht aus Stichworten besteht. Es sollte möglichst aussagekräftige Gedanken enthalten und möglichst wenig Wiederholungen. Es sollte erkennbar sein, dass Sie sich selbständig mit den Themen auseinandergesetzt haben und welche Fragen noch offen sind. Bitte denken Sie auch daran, sich in BOSS für diese Prüfung anzumelden.
  
 
-## Überblick
+## Lernkonzept IFS (draft)
 
-Auf Moodle finden sie eine Datei "Einführung_Allgemeine Didaktik_inhaltlich.pdf". Hier beschriebt Frau dr. Barbara Platzer das Lernkonzept und erläutert sie die Seminarplanung.
- 
+- Die Allgemeine Didaktik wird oft als etwas Subjektives verstanden, als eine Art Kunst, mit Lehre Bildung zu fördern. 
+- Die Allgemeine Didaktik ist innerhalb Deutschland sehr "bekannt". Neben "Teaching", wird Didaktik im Englischen auch übersetzt mit "Instructional Design". Instructional design fokussiert sich aber mehr auf höhere Bildung und Ausbildung und setzt sich viel mit Bildungstechnologie auseinander. Allgemeine Didaktik fokussiert sich meistens aufgrund und Sekundarschule. 
+- Im engeren Sinne fokussiert die Didaktik nur auf Inhalt, im breiteren Sinne fokussiert sie auf Inhalt und Methoden. 
+- Die Allgemeine Didaktik wird als Sündenbock für den Pisa-Schock wahrgenommen (Seel, 2000). Viele Studien sind qualitativ oder nicht empirisch. Die Kritik betont fehlende Effektivität, Praktikabilität und Brauchbarkeit. Die Allgemeine Didaktik braucht also mehr empirische Studien um aus diese Krise zu kommen. Lehr / Lernforschung und Bildungsforschung wird oft als neue Ausgangsposition genommen. 
+
+
+# Seminarplan
+
+Ausgewählte Themen: 
+
+- Historische Perspektiven auf die Allgemeine Didaktik (Comenius)
+- Was ist Bildung? Mehr als nur Wissen? Persönliche Bildung, praktische / technische Bildung, politische Bildung, etc. (Dörpinghaus)
+- Klassische Theorien zur Allgemeinen Didaktik, Bildungstheoretische und Kritisch-konstruktive Didaktik (Klafki)
+- Verschiedene Perspektiven auf Lernen
+	- Interkulturelles Lernen
+	- Zusammenhang von Allgemeiner Didaktik und Lehr-Lernforschung (Blömeke, & Müller, 2009)
+	- Grundbegriffe der Erziehungswissenschaft: Lehren und Lernen – Unterricht und Ausbildung, p 25-58 (Seel, 2000)
+	- 
+
+NB1: Folgende Themen sind weg aus dem Seminarplan seit dem Wechsel von IADB zum IFS: 
+
+- Verschiedene Perspektiven auf Lernen: 
+	- Überleben lernen
+	- Sterben lernen
+- Verzögerung
+- Kommunikation
+- Erwachsenen:
+	- Blended learning
+	- Unlearning
+	- Lebenslanges lernen
+
+
+NB: Warum ist das Seminar im Lehramt unterschiedlich? 
+
+Das Hauptfach-Seminar ist nicht vergleichbar mit dem Lehramt-Seminar. Im Lehramt geht es konkret um die Frage wie man Wissen vermittelt. Im Hauptfach geht es um die elementarere Frage wie man Bildung ermöglicht. 
+
 
 ## Acknowledgements
 
 Verschiedene Menschen, ins besondere Frau dr. Barbara Platzer, haben an der Entwicklung von diesem Kurs beigetragen. Vielen Dank für diese Arbeit!
+
 
 # Seminarplanung
 
