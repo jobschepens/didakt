@@ -26,7 +26,6 @@ output: html_document
 ## Modulhandbuch
 
 Inhalte
-<<<<<<< HEAD
 
 - Grundfragen der Allgemeinen Didaktik  
 	- Begriffe des Lehrens und Lernens
@@ -41,20 +40,6 @@ Inhalte
 	- Präsentation
 	- usw.
 
-=======
-- Grundfragen der Allgemeinen Didaktik:
-                - Begriffe des Lehrens und Lernens
-                - Adressatenbezug
-                - Struktur des zu vermittelnden Gegenstandes
-                - Lernziele und ihre Überprüfung
-                - Methodik
-                - Sequenzierung von Lerninhalten
-                - usw.
-- Grundlegende Methoden der Vermittlung
-                - Moderation
-                - Präsentation
-                - usw. 
->>>>>>> ed03c14a106d57f1b023212a09c21f9168b7d7c1
 
 Lernziele
 
