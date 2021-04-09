@@ -36,9 +36,9 @@ Offene Sitzung (kein Text)
 
 Klassische Theorien zur Allgemeinen Didaktik, Bildungstheoretische und Kritisch-konstruktive Didaktik (Klafki)
 
-Koch-Priewe, Barbara/ Köker, Anne/ Störtländer, Jan Christoph (2016): Die bildungstheoretische Didaktik und die kritisch-konstruktive Didaktik. In: Porsch, Rafaela (Hrsg.): Einführung in die Allgemeine Didaktik. Ein Lehr- und Arbeitsbuch für Lehramtsstudierende. Münster: Waxmann, S. 101-132; daraus: S. 101-117.
+Koch-Priewe, Barbara/ Köker, Anne/ Störtländer, Jan Christoph (2016): Die bildungstheoretische Didaktik und die kritisch-konstruktive Didaktik. In: Porsch, Rafaela (Hrsg.): Einführung in die Allgemeine Didaktik. Ein Lehr- und Arbeitsbuch für Lehramtsstudierende. Münster: Waxmann, S. 101-132
 
-Teil 1, Die Bildungstheoretische Didaktik (Klafki), Koch-Priewe, et al. (2016): 101-117.
+Koch-Priewe, et al. (2016): 101-117: Teil 1, Die Bildungstheoretische Didaktik (Klafki)
 
 
 ## Week  7 (26.05.2021)
@@ -48,7 +48,7 @@ Pfingsten
 
 ## Week  8 (02.06.2021)
 
-Teil 2, Die kritisch-konstruktive Didaktik (Klafki), Koch-Priewe, et al. (2016): 117-132.
+Koch-Priewe, et al. (2016): 117-132: Teil 2, Die kritisch-konstruktive Didaktik (Klafki)
 
 
 ## Week  9 (09.06.2021)
@@ -86,12 +86,14 @@ Blömeke, S., & Müller, C. (2009). Zum Zusammenhang von Allgemeiner Didaktik un
 
 ## Week 14 (14.07.2021)
 
-Grundbegriffe der Erziehungswissenschaft: Lehren und Lernen – Unterricht und Ausbildung, p 25-58 (Seel, 2000)
+Lehren und Lernen
+
+Seel, N. M. (2000). Grundbegriffe der Erziehungswissenschaft: Lehren und Lernen – Unterricht und Ausbildung. In Seel, N. M. (Ed). Psychologie des Lernens: Lehrbuch für Pädagogen und Psychologen. Reinhardt. p 25-58 
 
 
 ## Week 15 (21.07.2021)
 
-Offene Sitzung (kein Text)
+Neue Entwicklungen in der kognitive Bildungspsychologie 
 
 
 ## Before 30.09.2021 (official end date of SoSe21)

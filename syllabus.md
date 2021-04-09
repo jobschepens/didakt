@@ -71,7 +71,7 @@ Keine der Dateien im Moodle dürfen an andere weitergegeben oder veröffentlicht
 
 ## Studienleistung: Portfolio
 
-Um das Seminar zu bestehen, müssen Sie ein Portfolio schreiben, dass dokumentiert, wie Ihre Auseinandersetzung mit dem Thema und mit den Texten aussieht. Das Portfolio besteht aus verschiedene kurze Textabschnitte. Sie sollten sich für jeden Abschnitt zuerst eine konkrete Forschungsfrage basiert auf eine der Texte überlegen. Dazu formulieren Sie dann Diskursiv bzw. Ausgebreitete Antworte oder relevante Gedanken. Versuche das so Objektiv wie möglich zu machen, am liebsten mit konkretem Bezug auf wissenschaftliche Quellen (z. B. ein Zeitschriftartikel, Buchkapitel oder ähnliches). Es ist aber keine wissenschaftliche Arbeit. Das Ziel ist, ihre Gedanken zu dokumentieren. Es ist eine Art Tagebuch, wo sie interessante, kritische, überraschende, usw. Aspekte dokumentiere.
+Um das Seminar zu bestehen, müssen Sie ein Portfolio schreiben, dass dokumentiert, wie Ihre Auseinandersetzung mit dem Thema und mit den Texten aussieht. Das Portfolio besteht aus verschiedene kurze Textabschnitte. Sie sollten sich für jeden Abschnitt zuerst eine konkrete Forschungsfrage basiert auf eine der Texte überlegen. Dazu formulieren Sie dann diskursiv bzw. ausgebreitete Antworte oder relevante Gedanken. Versuche das so Objektiv wie möglich zu machen, am liebsten mit konkretem Bezug auf wissenschaftliche Quellen (z. B. ein Zeitschriftartikel, Buchkapitel oder ähnliches). Es ist aber keine wissenschaftliche Arbeit. Das Ziel ist, ihre Gedanken zu dokumentieren. Es ist eine Art Tagebuch, wo sie interessante, kritische, überraschende, usw. Aspekte dokumentiere.
 
 Folgende Fragen können leitend sein: Welche Gedanken / Ideen aus den jeweiligen Texten sind interessant? Warum/ inwiefern? Welche aktuellen Bezüge gibt es? An welchen Gedanken aus den Texten gibt es Kritik –und welche? An welchen Stellen gibt es Zusammenhänge zu anderen Theorien (die ich kenne)? Welche Gedanken sollte man weiterverfolgen? Welche Fragen bleiben offen? Natürlich können Sie in Ihrem Portfolio auch gerne andere Gedanken notieren, die Sie sich beim Erarbeiten der Texte gemacht haben.
 
@@ -79,53 +79,6 @@ Die Ordnung von Abschnitte kann chronologisch sein, aber auch nach Thema, oder n
 
 Bei der Überarbeitung sollten Sie alles, was Sie geschrieben haben, daraufhin prüfen, ob es für die Veröffentlichung bestimmt ist; das betrifft sowohl den Inhalt als auch die Form. Bitte stellen Sie sicher, dass das überarbeitete Portfolio aus ganzen Sätzen und nicht aus Stichworten besteht. Es sollte möglichst aussagekräftige Gedanken enthalten und möglichst wenig Wiederholungen. Es sollte erkennbar sein, dass Sie sich selbständig mit den Themen auseinandergesetzt haben und welche Fragen noch offen sind. Bitte denken Sie auch daran, sich in BOSS für diese Prüfung anzumelden.
  
-
-## "Stand der Dinge" in die Allgemeine Didaktik (draft)
-
-- Die Allgemeine Didaktik wird oft als etwas Subjektives verstanden, als eine Art Kunst, mit Lehre Bildung zu fördern. 
-- Die Allgemeine Didaktik ist innerhalb Deutschland sehr "bekannt". Neben "Teaching", wird Didaktik im Englischen auch übersetzt mit "Instructional Design". Instructional design fokussiert sich aber mehr auf höhere Bildung und Ausbildung und setzt sich viel mit Bildungstechnologie auseinander. Allgemeine Didaktik fokussiert sich meistens aufgrund und Sekundarschule. 
-- Im engeren Sinne fokussiert die Didaktik nur auf Inhalt, im breiteren Sinne fokussiert sie auf Inhalt und Methoden. 
-- Die Allgemeine Didaktik wird als Sündenbock für den Pisa-Schock wahrgenommen (Seel, 2000). Viele Studien sind qualitativ oder nicht empirisch. Die Kritik betont fehlende Effektivität, Praktikabilität und Brauchbarkeit. Die Allgemeine Didaktik braucht also mehr empirische Studien um aus diese Krise zu kommen. Lehr / Lernforschung und Bildungsforschung wird oft als neue Ausgangsposition genommen. 
-
-
-# Seminarplan
-
-Bereits existierende ausgewählte Themen: 
-
-- Historische Perspektiven auf die Allgemeine Didaktik (Comenius)
-- Was ist Bildung? Mehr als nur Wissen? Persönliche Bildung, praktische / technische Bildung, politische Bildung, etc. (Dörpinghaus)
-- Klassische Theorien zur Allgemeinen Didaktik, Bildungstheoretische und Kritisch-konstruktive Didaktik (Klafki)
-- Verschiedene Perspektiven auf Lernen: Interkulturelles Lernen
-- Pädagogische Zugänge zum Lernen (Göhlich, Wulf, Zirfaß)
-
-
-Neu (???): 
-
-- Anwendungsbezug / etwas Praxisnaehes 
-- Special Issue ueber Allgemeine Didaktik 
-	- Blömeke, S., & Müller, C. (2009). Zum Zusammenhang von Allgemeiner Didaktik und Lehr-Lernforschung im Unterrichtsgeschehen. In M. A. Meyer, M. Prenzel, & S. Hellekamps (Eds.), Perspektiven der Didaktik: Zeitschrift für Erziehungswissenschaft (pp. 239–258). VS Verlag für Sozialwissenschaften. https://doi.org/10.1007/978-3-531-91775-7_16
-- Teile aus andere Lehrbucher (Coriand, 2017; Seel 2000)
-	- Coriand, R. (2017). Allgemeine Didaktik. W. Kohlhammer Verlag, Stuttgart. [URL](https://content-select.com/de/portal/media/view/5a8d4d12-b300-4208-84f2-2dc4b0dd2d03)
-	- Seel, N. M. (2000). Grundbegriffe der Erziehungswissenschaft: Lehren und Lernen – Unterricht und Ausbildung. In Seel, N. M. (Ed). Psychologie des Lernens: Lehrbuch für Pädagogen und Psychologen. Reinhardt. p 25-58 
-
-
-NB1: Folgende Themen habe ich aus dem Seminarplan weg gelassen: 
-
-- Verschiedene Perspektiven auf Lernen: 
-	- Überleben lernen
-	- Sterben lernen
-- Verzögerung
-- Kommunikation
-- Erwachsenen:
-	- Blended learning
-	- Unlearning
-	- Lebenslanges lernen
-
-
-NB: Warum ist das Seminar im Lehramt unterschiedlich? 
-
-Das Hauptfach-Seminar ist nicht vergleichbar mit dem Lehramt-Seminar. Im Lehramt geht es konkret um die Frage wie man Wissen vermittelt. Im Hauptfach geht es um die elementarere Frage wie man Bildung ermöglicht. 
-
 
 ## Acknowledgements
 
