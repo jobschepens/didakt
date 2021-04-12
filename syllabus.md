@@ -1,5 +1,5 @@
 ---
-title: Grundlagen der Allgemeinen Didaktik
+title: Allgemeine Didaktik und Grundlagen der Vermittlung
 author: Job Schepens
 date: "February 24, 2021 (updated: `r Sys.Date()`)"
 output: html_document
@@ -71,9 +71,16 @@ Keine der Dateien im Moodle dürfen an andere weitergegeben oder veröffentlicht
 
 ## Studienleistung: Portfolio
 
-Um das Seminar zu bestehen, müssen Sie ein Portfolio schreiben, dass dokumentiert, wie Ihre Auseinandersetzung mit dem Thema und mit den Texten aussieht. Das Portfolio besteht aus verschiedene kurze Textabschnitte. Sie sollten sich für jeden Abschnitt zuerst eine konkrete Forschungsfrage basiert auf eine der Texte überlegen. Dazu formulieren Sie dann diskursiv bzw. ausgebreitete Antworte oder relevante Gedanken. Versuche das so Objektiv wie möglich zu machen, am liebsten mit konkretem Bezug auf wissenschaftliche Quellen (z. B. ein Zeitschriftartikel, Buchkapitel oder ähnliches). Es ist aber keine wissenschaftliche Arbeit. Das Ziel ist, ihre Gedanken zu dokumentieren. Es ist eine Art Tagebuch, wo sie interessante, kritische, überraschende, usw. Aspekte dokumentiere.
+Um das Seminar zu bestehen, müssen Sie ein Portfolio schreiben, dass dokumentiert, wie Ihre Auseinandersetzung mit dem Thema und mit den Texten aussieht. Das Portfolio besteht aus verschiedene kurze Textabschnitte. Sie sollten sich für jeden Abschnitt zuerst eine konkrete Forschungsfrage basiert auf eine der Texte überlegen. Dazu formulieren Sie dann diskursiv bzw. ausgebreitete Antworte oder relevante Gedanken. Versuche das so Objektiv wie möglich zu machen, am liebsten mit konkretem Bezug auf wissenschaftliche Quellen (z. B. ein Zeitschriftartikel, Buchkapitel oder ähnliches). Es ist aber keine wissenschaftliche Arbeit. Das Ziel ist, ihre Gedanken zu dokumentieren. Es ist eine Art Tagebuch, wo sie interessante, kritische, überraschende, usw. Aspekte dokumentieren.
 
-Folgende Fragen können leitend sein: Welche Gedanken / Ideen aus den jeweiligen Texten sind interessant? Warum/ inwiefern? Welche aktuellen Bezüge gibt es? An welchen Gedanken aus den Texten gibt es Kritik –und welche? An welchen Stellen gibt es Zusammenhänge zu anderen Theorien (die ich kenne)? Welche Gedanken sollte man weiterverfolgen? Welche Fragen bleiben offen? Natürlich können Sie in Ihrem Portfolio auch gerne andere Gedanken notieren, die Sie sich beim Erarbeiten der Texte gemacht haben.
+Folgende Fragen können leitend sein: 
+- Welche Gedanken / Ideen aus den jeweiligen Texten sind interessant? 
+- Warum/ inwiefern? 
+- Welche aktuellen Bezüge gibt es? 
+- An welchen Gedanken aus den Texten gibt es Kritik – und welche? 
+- An welchen Stellen gibt es Zusammenhänge zu anderen Theorien? 
+- Welche Gedanken sollte man weiterverfolgen? 
+- Welche Fragen bleiben offen? 
 
 Die Ordnung von Abschnitte kann chronologisch sein, aber auch nach Thema, oder nach der Art des Kommentars (z. B. kritisches Kommentar zuerst oder zuletzt). Reflektiere über das gelernte, nachdem alle Abschnitte fertig bearbeitet sind. Das Portfolio sollte insgesamt 10–12 Seiten sein und sie sollten bis spätestens 30.09.2021 eine überarbeitete Form des Portfolios als PDF per Mail einreichen. Die Idee „Portfolio als Studienleistung“ hat sich über die Jahre hin bewährt. Danke an Frau dr. Barbara Platzer für die spezifischen Angaben.
 
@@ -89,3 +96,7 @@ Verschiedene Menschen, ins besondere Frau dr. Barbara Platzer, haben an der Entw
 
 [Detaillierte Planung](https://jobschepens.github.io/didakt/detailedschedule.html)
 
+
+# Literatur
+
+[PDF](https://jobschepens.github.io/didakt/lit/lit.zip). 
