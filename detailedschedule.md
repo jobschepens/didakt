@@ -5,6 +5,7 @@
 Themen
 - Organisatorische und inhaltliche Einführung in das Seminar
 
+
 ## Week  2 (21.04.2021)
 
 Themen
@@ -12,10 +13,11 @@ Themen
 
 Vorzubereitende Texte
 - Meyer, Meinert A. (2016): Rückständig oder zukunftsweisend? Reflexionen zum Potential der Allgemeinen Didaktik. In: Wegner, Anke (Hrsg.): Allgemeine Didaktik: Praxis, Positionen, Perspektiven. Leverkusen: Verlag Barbara Budrich, S. 49-86; daraus: S. 55-64.
+- [Podcast ueber Comenius(Optional)](https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-johann-amos-comenius-theologe-und-paedagoge-todestag--100).html
 - Syllabus 
 
 **Aufgabe**
-- Lehrerfahrung
+- Lehrerfahrung 
 
 
 ## Week  3 (28.04.2021)
