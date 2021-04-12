@@ -6,24 +6,22 @@ output: html_document
 ---
 
 
-# Course information: Grundlagen der Allgemeinen Didaktik
-
-## Coursebook details
+# Allgemeines
 
 - BA-Studiengang Erziehungswissenschaft
 - Modul 5 Einführung in Grundlagen von Vermitteln, Beraten, Planen (9 ECTS)
 - Element 1 Allgemeine Didaktik und Grundlagen der Vermittlung (3 ECTS)
-- Study section: 1./2. Semester
+- Abschnitt: 1./2. Semester
 - Veranstaltungsnummer: 120249
-- Summer Semester 2021
-- Time: 2 x 45 min, 10.00-12.00 (cum zeit: 10.15 real start)
-- Aufwand: 270 Stunden (6 hours per week per Element)
+- Sommer Semester 2021
+- Zeit: 2 x 45 min, 10.00-12.00 (cum zeit: 10.15 real start)
+- Aufwand: 270 Stunden (6 Stunden pro Woche pro Element)
 - Format: Zoom
 - Teacher: Job Schepens [TU Dortmund Homepage](http://www.ifs.tu-dortmund.de/cms/de/Home/Mitarbeiter/Wissenschaftliche-Mitarbeiter/Schepens-Job.html)
 - Language: German
 
 
-## Modulhandbuch
+# Modulhandbuch
 
 Inhalte
 
@@ -50,7 +48,7 @@ Lernziele
 - Die Studierenden können diesen Arrangements die passenden Vermittlungsmethoden zuordnen und umsetzen.
 
 
-## Seminarstruktur
+# Seminarstruktur
 
 Wegen Corona findet dieses Seminar komplett online statt. Die Idee ist das wir jede Woche eine interaktiven Zoom Meeting haben um die Texte und Aufgaben zu besprechen. Wir werden Moodle für Aufgaben, das Diskussionsforum, und Literatur benutzen. Das wöchentliche lesen ist ein wichtiges Teil des Seminars. Im Ordner „Seminarliteratur“ finden sie alle Texte, die Sie während des Semesters für dieses Seminar bearbeiten sollten. Im Ordner „zusätzliche Literatur“ gibt es außerdem weiterführende Artikel.
 
@@ -69,7 +67,7 @@ Die Videokonferenzen per Zoom sind nicht verpflichtend. Die Sitzungen sind dazu 
 Keine der Dateien im Moodle dürfen an andere weitergegeben oder veröffentlicht werden. Das gilt sowohl für Dateien, die von mir hochgeladen werden als auch für Dateien, die von Studierenden hochgeladen werden.
 
 
-## Studienleistung: Portfolio
+# Studienleistung: Portfolio
 
 Um das Seminar zu bestehen, müssen Sie ein Portfolio schreiben, dass dokumentiert, wie Ihre Auseinandersetzung mit dem Thema und mit den Texten aussieht. Das Portfolio besteht aus verschiedene kurze Textabschnitte. Sie sollten sich für jeden Abschnitt zuerst eine konkrete Forschungsfrage basiert auf eine der Texte überlegen. Dazu formulieren Sie dann diskursiv bzw. ausgebreitete Antworte oder relevante Gedanken. Versuche das so Objektiv wie möglich zu machen, am liebsten mit konkretem Bezug auf wissenschaftliche Quellen (z. B. ein Zeitschriftartikel, Buchkapitel oder ähnliches). Es ist aber keine wissenschaftliche Arbeit. Das Ziel ist, ihre Gedanken zu dokumentieren. Es ist eine Art Tagebuch, wo sie interessante, kritische, überraschende, usw. Aspekte dokumentieren.
 
@@ -87,7 +85,7 @@ Die Ordnung von Abschnitte kann chronologisch sein, aber auch nach Thema, oder n
 Bei der Überarbeitung sollten Sie alles, was Sie geschrieben haben, daraufhin prüfen, ob es für die Veröffentlichung bestimmt ist; das betrifft sowohl den Inhalt als auch die Form. Bitte stellen Sie sicher, dass das überarbeitete Portfolio aus ganzen Sätzen und nicht aus Stichworten besteht. Es sollte möglichst aussagekräftige Gedanken enthalten und möglichst wenig Wiederholungen. Es sollte erkennbar sein, dass Sie sich selbständig mit den Themen auseinandergesetzt haben und welche Fragen noch offen sind. Bitte denken Sie auch daran, sich in BOSS für diese Prüfung anzumelden.
  
 
-## Acknowledgements
+# Acknowledgements
 
 Verschiedene Menschen, ins besondere Frau dr. Barbara Platzer, haben an der Entwicklung von diesem Kurs beigetragen. Vielen Dank für diese Arbeit!
 
