@@ -97,4 +97,16 @@ Verschiedene Menschen, ins besondere Frau dr. Barbara Platzer, haben an der Entw
 
 # Literatur
 
-[PDF](https://jobschepens.github.io/didakt/lit/lit.zip). 
+Allgemeine Einführungen
+- Terhart, E. (2019). Didaktik: Eine Einführung. Reclam.
+- Coriand, R. (2017). Allgemeine Didaktik. https://content-select.com/de/portal/media/view/5a8d4d12-b300-4208-84f2-2dc4b0dd2d03
+- Seel, B. M., Hanke, U. (2015). Erziehungswissenschaft. Lehrbuch für Bachelor-, Master- und Lehramtsstudierende. Springer. 
+
+Texte 
+- Meyer, Meinert A. (2016): Rückständig oder zukunftsweisend? Reflexionen zum Potential der Allgemeinen Didaktik. In: Wegner, Anke (Hrsg.): Allgemeine Didaktik: Praxis, Positionen, Perspektiven. Leverkusen: Verlag Barbara Budrich, S. 49-86; daraus: S. 55-64.
+- Dörpinghaus, Andreas (2009): Bildung. Plädoyer wider die Verdummung. In: Rivista Internazionale di Scienze Filosofiche, Pedagogiche e Soziali. Hrsg. von Michele Borrelli. Heft 6, S. 136-146; daraus: S. 136-141.
+- Koch-Priewe, Barbara/ Köker, Anne/ Störtländer, Jan Christoph (2016): Die bildungstheoretische Didaktik und die kritisch-konstruktive Didaktik. In: Porsch, Rafaela (Hrsg.): Einführung in die Allgemeine Didaktik. Ein Lehr- und Arbeitsbuch für Lehramtsstudierende. Münster: Waxmann, S. 101-132; daraus: S. 101-117.
+- Göhlich, Michael/ Wulf, Christoph/ Zirfaß, Jörg (2014): Pädagogische Zugänge zum Lernen. Eine Einleitung. In: Dies. (Hrsg.): Pädagogische Theorien des Lernens. Weinheim: Beltz, S. 7-19.
+- Auernheimer, Georg (2014): Interkulturelles Lernen. In: Göhlich, Michael/ Wulf, Christoph/ Zirfaß, Jörg (Hrsg.): Pädagogische Theorien des Lernens. Weinheim: Beltz, S. 153-162.
+- Sting, Stephan (2014): Überleben lernen. In: Göhlich, Michael/ Wulf, Christoph/ Zirfaß, Jörg (Hrsg.): Pädagogische Theorien des Lernens. Weinheim: Beltz, S. 176-187
+- Blömeke, S., & Müller, C. (2009). Zum Zusammenhang von Allgemeiner Didaktik und Lehr-Lernforschung im Unterrichtsgeschehen. In M. A. Meyer, M. Prenzel, & S. Hellekamps (Eds.), Perspektiven der Didaktik: Zeitschrift für Erziehungswissenschaft (pp. 239–258). VS Verlag für Sozialwissenschaften. https://doi.org/10.1007/978-3-531-91775-7_16
