@@ -67,7 +67,7 @@ Die Videokonferenzen per Zoom sind nicht verpflichtend. Die Sitzungen sind dazu 
 Keine der Dateien im Moodle dürfen an andere weitergegeben oder veröffentlicht werden. Das gilt sowohl für Dateien, die von mir hochgeladen werden als auch für Dateien, die von Studierenden hochgeladen werden.
 
 
-# Studienleistung: Portfolio
+# Studienleistung: Portfolio (+ Aufgaben)
 
 Um das Seminar zu bestehen, müssen Sie ein Portfolio schreiben, dass dokumentiert, wie Ihre Auseinandersetzung mit dem Thema und mit den Texten aussieht. Das Portfolio besteht aus verschiedene kurze Textabschnitte. Sie sollten sich für jeden Abschnitt zuerst eine konkrete Forschungsfrage basiert auf eine der Texte überlegen. Dazu formulieren Sie dann diskursiv bzw. ausgebreitete Antworte oder relevante Gedanken. Versuche das so Objektiv wie möglich zu machen, am liebsten mit konkretem Bezug auf wissenschaftliche Quellen (z. B. ein Zeitschriftartikel, Buchkapitel oder ähnliches). Es ist aber keine wissenschaftliche Arbeit. Das Ziel ist, ihre Gedanken zu dokumentieren. Es ist eine Art Tagebuch, wo sie interessante, kritische, überraschende, usw. Aspekte dokumentieren.
 
