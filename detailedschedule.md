@@ -6,20 +6,23 @@ Themen
 - Organisatorische und inhaltliche Einführung in das Seminar
 - [Folien](https://jobschepens.github.io/didakt/folien/week1.pptx)
 
+**Aufgabe (Nachbereitung)**
+- Lehrerfahrung 
+
 
 ## Week  2 (21.04.2021)
 
 Themen
 - Historische Perspektiven auf die Allgemeine Didaktik (Comenius)
 
-Vorzubereitende Texte
+Vorzubereitende Texte 
 - Meyer, Meinert A. (2016): Rückständig oder zukunftsweisend? Reflexionen zum Potential der Allgemeinen Didaktik. In: Wegner, Anke (Hrsg.): Allgemeine Didaktik: Praxis, Positionen, Perspektiven. Leverkusen: Verlag Barbara Budrich, S. 49-86; daraus: S. 55-64.
 - [Podcast ueber Comenius)](https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-johann-amos-comenius-theologe-und-paedagoge-todestag--100.html)
 - [Video ueber den Comenius-Garten](https://www.youtube.com/watch?v=KoaItLwpIpg)
 - Syllabus 
 
-**Aufgabe**
-- Lehrerfahrung 
+**Aufgabe (Nachbereitung)**
+- 1. Eintrag im Portfolio
 
 
 ## Week  3 (28.04.2021)
@@ -29,8 +32,13 @@ Themen
 - Persönliche Bildung, praktische / technische Bildung, politische Bildung (school), etc.
 - Ausbildung, Selbstgestaltung, Erkenntnis
 
-Vorzubereitende Texte
+Vorzubereitende Inhalt 
 - Dörpinghaus, Andreas (2009): Bildung. Plädoyer wider die Verdummung. In: Rivista Internazionale di Scienze Filosofiche, Pedagogiche e Soziali. Hrsg. von Michele Borrelli. Heft 6, S. 136-146; daraus: S. 136-141
+- [Podcast Humboldt](https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-wilhelm-von-humboldt-gelehrter-geburtstag--100.html)
+
+**Aufgabe (Nachbereitung)**
+- 2 Stichpunkte im Forum (Freihet und Bildung)
+- 2. Eintrag im Portfolio
 
 
 ## Week  4 (05.05.2021)
@@ -39,8 +47,13 @@ Themen
 - Weitere Beschäftigung mit dem Begriff der Bildung
 - Sich fremd werden, Warten können, kulturelles Gedächtnis
 
-Vorzubereitende Texte
+Vorzubereitende Inhalt
 - Dörpinghaus (2009): 141-146
+- [Platon's Hoehle](https://www.youtube.com/watch?v=1RWOpQXTltA)
+
+**Aufgabe (Nachbereitung)**
+- MindMap ueber Bildung hochladen
+- 2 Stichpunkte im Forum (Freihet und Bildung)
 
 
 ## Week  5 (12.05.2021)
