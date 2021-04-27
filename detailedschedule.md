@@ -14,6 +14,7 @@ Themen
 
 Themen
 - Historische Perspektiven auf die Allgemeine Didaktik (Comenius)
+- [Folien](https://jobschepens.github.io/didakt/folien/week2.pptx)
 
 Vorzubereitende Texte 
 - Meyer, Meinert A. (2016): Rückständig oder zukunftsweisend? Reflexionen zum Potential der Allgemeinen Didaktik. In: Wegner, Anke (Hrsg.): Allgemeine Didaktik: Praxis, Positionen, Perspektiven. Leverkusen: Verlag Barbara Budrich, S. 49-86; daraus: S. 55-64.
@@ -31,6 +32,7 @@ Themen
 - Was ist Bildung? mehr als nur Wissen? 
 - Persönliche Bildung, praktische / technische Bildung, politische Bildung (school), etc.
 - Ausbildung, Selbstgestaltung, Erkenntnis
+- [Folien](https://jobschepens.github.io/didakt/folien/week3.pptx)
 
 Vorzubereitende Inhalt 
 - Dörpinghaus, Andreas (2009): Bildung. Plädoyer wider die Verdummung. In: Rivista Internazionale di Scienze Filosofiche, Pedagogiche e Soziali. Hrsg. von Michele Borrelli. Heft 6, S. 136-146; daraus: S. 136-141
@@ -38,7 +40,7 @@ Vorzubereitende Inhalt
 
 **Aufgabe (Nachbereitung)**
 - 2 Stichpunkte im Forum (Freihet und Bildung)
-- 2. Eintrag im Portfolio
+- Zweiten Eintrag im Portfolio
 
 
 ## Week  4 (05.05.2021)
@@ -53,7 +55,7 @@ Vorzubereitende Inhalt
 
 **Aufgabe (Nachbereitung)**
 - MindMap ueber Bildung hochladen
-- 2 Stichpunkte im Forum (Freihet und Bildung)
+- Dritten Eintrag im Portfolio
 
 
 ## Week  5 (12.05.2021)
