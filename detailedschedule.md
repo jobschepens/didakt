@@ -48,6 +48,7 @@ Vorzubereitende Inhalt
 Themen
 - Weitere Beschäftigung mit dem Begriff der Bildung
 - Sich fremd werden, Warten können, kulturelles Gedächtnis
+- [Folien](https://jobschepens.github.io/didakt/folien/week4.pptx)
 
 Vorzubereitende Inhalt
 - Dörpinghaus (2009): 141-146
