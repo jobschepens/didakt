@@ -60,7 +60,7 @@ Vorzubereitende Inhalt
 
 ## Week  5 (12.05.2021)
 
-Offene Sitzung (kein Text)
+Offene Sitzung (kein Text) / Ringvorlesung
 
 
 ## Week  6 (19.05.2021)
