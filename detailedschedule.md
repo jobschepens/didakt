@@ -56,7 +56,7 @@ Vorzubereitende Inhalt
 
 **Aufgabe (Nachbereitung)**
 - MindMap ueber Bildung hochladen
-- Dritten Eintrag im Portfolio
+- 3. Eintrag im Portfolio
 
 
 ## Week  5 (12.05.2021)
@@ -71,6 +71,12 @@ Themen
 
 Vorzubereitende Texte
 - Koch-Priewe, Barbara/ Köker, Anne/ Störtländer, Jan Christoph (2016): Die bildungstheoretische Didaktik und die kritisch-konstruktive Didaktik. In: Porsch, Rafaela (Hrsg.): Einführung in die Allgemeine Didaktik. Ein Lehr- und Arbeitsbuch für Lehramtsstudierende. Münster: Waxmann, S. 101-117:
+
+**Aufgabe (Nachbereitung)**
+- Gegenwartsbedeutungsaufgabe (Moodle)
+- 4. Eintrag im Portfolio
+- Online-Umfrage [URL](https://evaluation.tu-dortmund.de/evasys/online.php?pswd=9QLRY)
+
 
 
 ## Week  7 (26.05.2021)
