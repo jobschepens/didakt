@@ -68,6 +68,7 @@ Offene Sitzung (kein Text) / Ringvorlesung
 
 Themen
 - Bildungstheoretische Didaktik (Klafki)
+- [Folien](https://jobschepens.github.io/didakt/folien/week6.pptx)
 
 Vorzubereitende Texte
 - Koch-Priewe, Barbara/ Köker, Anne/ Störtländer, Jan Christoph (2016): Die bildungstheoretische Didaktik und die kritisch-konstruktive Didaktik. In: Porsch, Rafaela (Hrsg.): Einführung in die Allgemeine Didaktik. Ein Lehr- und Arbeitsbuch für Lehramtsstudierende. Münster: Waxmann, S. 101-117:
