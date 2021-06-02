@@ -40,7 +40,7 @@ Vorzubereitende Inhalt
 
 **Aufgabe (Nachbereitung)**
 - 2 Stichpunkte im Forum (Freihet und Bildung)
-- Zweiten Eintrag im Portfolio
+- Zweiter Eintrag im Portfolio
 
 
 ## Week  4 (05.05.2021)
@@ -56,7 +56,7 @@ Vorzubereitende Inhalt
 
 **Aufgabe (Nachbereitung)**
 - MindMap ueber Bildung hochladen
-- 3. Eintrag im Portfolio
+- Dritter Eintrag im Portfolio
 
 
 ## Week  5 (12.05.2021)
@@ -75,8 +75,8 @@ Vorzubereitende Texte
 
 **Aufgabe (Nachbereitung)**
 - Gegenwartsbedeutungsaufgabe (Moodle)
-- 4. Eintrag im Portfolio
 - Online-Umfrage [URL](https://evaluation.tu-dortmund.de/evasys/online.php?pswd=9QLRY)
+- Vierter Eintrag im Portfolio
 
 
 
@@ -89,6 +89,11 @@ Pfingsten
 
 Themen
 - Die kritisch-konstruktive Didaktik (Klafki)
+- [Folien](https://jobschepens.github.io/didakt/folien/week8.pptx)
+
+Nachbereitung
+- Fuenfter Eintrag im Portfolio
+- Optional: https://www.swr.de/swr2/leben-und-gesellschaft/theodor-w-adorno-todestag-50-100.html (Podcast Adorno)
 
 Vorzubereitende Texte
 - Koch-Priewe, et al. (2016): 117-132. 
