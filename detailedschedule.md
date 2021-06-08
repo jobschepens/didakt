@@ -91,12 +91,12 @@ Themen
 - Die kritisch-konstruktive Didaktik (Klafki)
 - [Folien](https://jobschepens.github.io/didakt/folien/week8.pptx)
 
+Vorzubereitende Texte
+- Koch-Priewe, et al. (2016): 117-132. 
+
 Nachbereitung
 - Fuenfter Eintrag im Portfolio
 - Optional: https://www.swr.de/swr2/leben-und-gesellschaft/theodor-w-adorno-todestag-50-100.html (Podcast Adorno)
-
-Vorzubereitende Texte
-- Koch-Priewe, et al. (2016): 117-132. 
 
 
 ## Week  9 (09.06.2021)
