@@ -96,7 +96,7 @@ Vorzubereitende Texte
 
 Nachbereitung
 - Fuenfter Eintrag im Portfolio
-- Optional: https://www.swr.de/swr2/leben-und-gesellschaft/theodor-w-adorno-todestag-50-100.html (Podcast Adorno)
+- Optional: [Podcast Adorno](https://www.swr.de/swr2/leben-und-gesellschaft/theodor-w-adorno-todestag-50-100.html)
 
 
 ## Week  9 (09.06.2021)
@@ -138,6 +138,7 @@ Themen
 
 Vorzubereitende Texte
 - Sting, Stephan (2014): Überleben lernen. In: Göhlich, Michael/ Wulf, Christoph/ Zirfaß, Jörg (Hrsg.): Pädagogische Theorien des Lernens. Weinheim: Beltz, S. 176-187
+- Optional: [Podcast über Armut in der Corona-Krise](https://www.deutschlandfunkkultur.de/armutsforscher-zu-corona-folgen-ich-sehe-hier-eine-tendenz.1008.de.html?dram:article_id=475214)
 
 
 ## Week 14 (14.07.2021)
@@ -152,10 +153,11 @@ Vorzubereitende Texte
 ## Week 15 (21.07.2021)
 
 Themen
-- Neue Entwicklungen 
+- Unterrichtsqualität aus der Perspektive der Empirische Bildungsforschung
 
 Vorzubereitende Texte
-- kommt noch
+- Hasselhorn, M. & Gold, A. 5.2 Dimensionen der Unterrichtsqualität (S. 245-252) kogn akt + unterst + fuehrung
+
 
 
 ## Before 30.09.2021 (Enddatum SoSe21)
